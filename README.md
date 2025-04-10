@@ -72,13 +72,3 @@ registration_project_simple/
 SQLite (file-based, no setup needed)
 
 
-
-<<<<<<< HEAD
-
-=======
-For questions or suggestions, reach out to INI8 Labs.
-# django_registration
-# django_registration
-# INI8LABS--ASSIGNMENT
->>>>>>> 1c7756b (first commit)
-# INI8-LABS-ASSIGNMENT
